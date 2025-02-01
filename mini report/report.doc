@@ -1,0 +1,43 @@
+IOT AND MACHINE LEARNING TO CREATE A CONTEXT-AWARE CROP RECOMMENDATION SYSTEM
+
+Abstract
+The increasing global demand for food, coupled with climate change and environmental uncertainties, necessitates innovative approaches to agricultural productivity. This study presents the development of an IoT-based crop recommendation system utilizing machine learning techniques to assist farmers in making informed decisions. The system integrates real-time environmental data, including soil composition, temperature, and moisture levels, with historical agricultural datasets to generate optimal crop recommendations. Machine learning models, including Random Forest, XGBoost, Support Vector Machines (SVM), and Artificial Neural Networks (ANN), were evaluated for their predictive accuracy in crop recommendation tasks. Results indicate that XGBoost and Random Forest demonstrated superior accuracy (82.54%) in predicting suitable crops, outperforming SVM and ANN.
+Background of Study
+Farmers face significant challenges such as crop losses and low yields due to reliance on conventional practices. Existing models like Stochastic Dynamic Programming and Many Objectives Robust Decision-Making Model (MORDMAgro) lack real-time adaptability. This project addresses these gaps by developing an IoT-based crop recommendation system that uses machine learning to provide dynamic, data-driven insights.
+Problem Statement
+Farmers face increasing uncertainty and inefficiency in crop selection, highlighting the need for an IoT-driven crop recommendation system that uses machine learning to guide optimal crop choices and enhance productivity.
+Aim and Objectives
+•	Develop an IoT-based crop recommendation system.
+•	Conduct a comprehensive review of crop yield prediction technologies.
+•	Design, implement, and evaluate the system's performance.
+Methodology
+Research Design
+The study adopts a quantitative research approach, utilizing secondary data to design, train, and validate machine learning models for crop recommendations.
+Data Collection
+The dataset includes soil properties (pH, nutrients) and climate conditions (temperature, precipitation) from publicly accessible IoT platforms and agricultural research studies.
+Machine Learning Models
+•	Random Forest: Ensemble method with high accuracy and reduced overfitting.
+•	XGBoost: High performance and speed, effective for structured datasets.
+•	SVM: Effective for high-dimensional data.
+•	ANN: Captures complex non-linear relationships.
+Evaluation Metrics
+•	Accuracy: Proportion of correctly recognized data points.
+•	Precision: Ratio of correctly identified positive predictions.
+•	Recall: Percentage of true positive outcomes.
+•	F1-Score: Harmonic mean of precision and recall.
+
+Results and Findings
+Model Performance
+•	Random Forest: Achieved 83% accuracy with strong precision and recall.
+•	XGBoost: Achieved 85% accuracy, outperforming other models in both accuracy and computational efficiency.
+•	ANN: Moderate performance with 69.61% accuracy.
+•	SVM: Weakest performance with 56.98% accuracy.
+Comparison of Algorithms
+•	XGBoost emerged as the best-performing algorithm, achieving the highest accuracy and F1-score while maintaining the lowest computational time.
+•	Random Forest also delivered excellent performance but required more computational time.
+•	ANN provided moderate classification capability but was computationally expensive.
+•	SVM performed the worst in terms of both accuracy and efficiency.
+
+ 
+Conclusion
+This study demonstrates the potential of IoT-driven precision agriculture in optimizing crop selection, reducing resource wastage, and improving overall agricultural productivity. The implementation of this system can significantly benefit farmers by providing reliable, real-time insights into crop suitability, thereby promoting sustainable agricultural practices and increasing food security.
