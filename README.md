@@ -31,7 +31,7 @@ This project pioneers the use of a **Mendeley-hosted crop dataset** for developi
 
 ## 👨‍💻 **Contributors**  
 - **Timothy Adeyemi** 🚀  
-  - **GitHub:** [@iamadeyemi](https://github.com/iamtimothy)  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamadeyemi)  
   - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
