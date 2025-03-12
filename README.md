@@ -8,7 +8,7 @@ This project pioneers the use of a **Mendeley-hosted crop dataset** for developi
 - **IoT integration** for real-time monitoring of **soil and climate conditions**.  
 - Utilization of **machine learning models (Random Forest, XGBoost, SVM, ANN)** for accurate crop prediction.  
 - **Feature engineering and EDA** to extract meaningful insights from soil, weather, and geospatial data.  
-- **Scalable and adaptable**, ensuring flexibility across diverse agricultural regions.  
+- **Scalable and adaptable**, ensuring flexibility across diverse agricultural regions. 
 
 ## 🔬 Methodology  
 1. **Data Collection**: Soil and climate data sourced from Mendeley and trusted agricultural databases.  
