@@ -25,7 +25,7 @@ This project pioneers the use of a **Mendeley-hosted crop dataset** for developi
 - **Python**, Pandas, Scikit-learn, TensorFlow, XGBoost  
 - **IoT Sensors** (Simulated) for soil and climate data collection  
 - **Cloud-Based Data Repositories** (Mendeley, NASA datasets)  
-- **Visualization Tools**: Matplotlib, Seaborn, Plotly  
+- **Visualization Tools**: Matplotlib, Seaborn, Plotly 
 
 ---
 
