@@ -10,7 +10,7 @@ This project pioneers the use of a **Mendeley-hosted crop dataset** for developi
 - **Feature engineering and EDA** to extract meaningful insights from soil, weather, and geospatial data.  
 - **Scalable and adaptable**, ensuring flexibility across diverse agricultural regions. 
 
-## 🔬 Methodology  
+## 🔬 Methodology 
 1. **Data Collection**: Soil and climate data sourced from Mendeley and trusted agricultural databases.  
 2. **Preprocessing & Analysis**: Cleaning, feature selection, and exploratory data analysis (EDA).  
 3. **Model Development**: Training and evaluating ML models for precise crop recommendations.  
